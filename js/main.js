@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   /**
    * 代碼
-   * 只適用於Hexo默認的代碼渲染
+   * 只適用於默認的代碼渲染
    */
   const addHighlightTool = () => {
     const highLight = GLOBAL_CONFIG.highlight
